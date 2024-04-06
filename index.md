@@ -3,9 +3,9 @@
 
 ## Table of Contents:
 
-1. [About Me](https://github.com/TheodoreVB/CSE110/new/main#about-me)
-2. [Hobbies](https://github.com/TheodoreVB/CSE110/new/main#hobbies)
-3. [UCSD Courses:](https://github.com/TheodoreVB/CSE110/new/main#ucsd-courses)
+1. [About Me](https://theodorevb.github.io/CSE110/#about-me)
+2. [Hobbies](https://theodorevb.github.io/CSE110/#hobbies)
+3. [UCSD Courses:](https://theodorevb.github.io/CSE110/#ucsd-courses)
 
 ### About me:
 My name is Teddy Van Berlo, and I am currently a junior-transfer student at UCSD majoring in Computer Engineering. I have experience programming in C++ and Java, but heavily prefer using C++
